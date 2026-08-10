@@ -8,10 +8,11 @@ Ubuntu was installed on a virtual machine using VirtualBox on macOS.
 
 ## Environment
 
-- Ubuntu 24.04.3 LTS
-- ROS 2 Jazzy
-- VirtualBox
-- ARM64 Architecture
+- Operating System: Ubuntu 24.04.3 LTS (Linux)
+- ROS 2 Distribution: Jazzy
+- Virtual Machine: VirtualBox
+- Architecture: ARM64
+- Host System: macOS
 
 ---
 
